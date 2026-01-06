@@ -1,0 +1,15 @@
+# UE4 ignores
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.opensdf
+*.sdf
+*.log
+*.user
+*.userprefs
+.vs/
+*.xcodeproj
+*.xcworkspace
+*.idea/
+*.vscode/
